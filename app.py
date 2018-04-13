@@ -6,6 +6,8 @@ from flask import render_template
 """
 functions allowed inside the jinja2 template:
 http://jinja.pocoo.org/docs/2.10/templates/#builtin-filters
+
+uses leaflet.js for maps
 """
 
 

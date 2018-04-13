@@ -4,3 +4,4 @@
 
 follow the entire stanford course [here](http://www.compjour.org)
 
+leaflet.js used for map visualization.
